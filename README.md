@@ -1,3 +1,4 @@
+
 # 1. Cloud
 
 
@@ -277,3 +278,32 @@ The microservice architecture enables the rapid, frequent and reliable delivery 
 | -- | :-- |
 | 1 | [Server-side page fragment composition](https://microservices.io/patterns/ui/server-side-page-fragment-composition.html) |
 | 2 | [Client-side UI composition](https://microservices.io/patterns/ui/client-side-ui-composition.html) |
+
+# 4. SSL
+
+SSL, known today as TLS, is an encryption protocol that runs on top of the HTTP protocol to protect Internet communication between servers and clients
+
+| # | Title |
+| -- | -- |
+| 1 | [What is SSL?](https://www.cloudflare.com/learning/ssl/what-is-ssl/) |
+| 2 | [What is an SSL Certificate?](https://www.cloudflare.com/learning/ssl/what-is-an-ssl-certificate/) |
+| 3 | [What is TLS?](https://www.cloudflare.com/learning/ssl/transport-layer-security-tls/) |
+| 4 | [Why Use HTTPS?](https://www.cloudflare.com/learning/ssl/why-use-https/) |
+| 5 | [What is HTTPS?](https://www.cloudflare.com/learning/ssl/what-is-https/) |
+| 6 | [What is Mixed Content?](https://www.cloudflare.com/learning/ssl/what-is-mixed-content/) |
+| 7 | [Keyless SSL](https://www.cloudflare.com/learning/ssl/keyless-ssl/) |
+| 8 | [SSL Handshake](https://www.cloudflare.com/learning/ssl/what-happens-in-a-tls-handshake/) |
+| 9 | [Public Key Encryption](https://www.cloudflare.com/learning/ssl/how-does-public-key-encryption-work/) |
+| 10 | [How SSL Works](https://www.cloudflare.com/learning/ssl/how-does-ssl-work/) |
+| 11 | [Asymmetric Encryption](https://www.cloudflare.com/learning/ssl/what-is-asymmetric-encryption/) |
+| 12 | [What is Encryption?](https://www.cloudflare.com/learning/ssl/what-is-encryption/) |
+| 13 | [HTTP Security Gaps](https://www.cloudflare.com/learning/ssl/why-is-http-not-secure/) |
+| 14 | [SSL Certificate Types](https://www.cloudflare.com/learning/ssl/types-of-ssl-certificates/) |
+| 15 | [Cryptographic Key](https://www.cloudflare.com/learning/ssl/what-is-a-cryptographic-key/) |
+| 16 | [Why Use TLS 1.3?](https://www.cloudflare.com/learning/ssl/why-use-tls-1.3) |
+| 17 | [What is a Session Key?](https://www.cloudflare.com/learning/ssl/what-is-a-session-key/) |
+| 18 | [What is SNI?](https://www.cloudflare.com/learning/ssl/what-is-sni/) |
+| 19 | [Connection Not Private](https://www.cloudflare.com/learning/ssl/connection-not-private-explained/) |
+| 20 | [Lava Lamp Encryption](https://www.cloudflare.com/learning/ssl/lava-lamp-encryption/) |
+| 21 | [What is Encrypted SNI?](https://www.cloudflare.com/learning/ssl/what-is-encrypted-sni/) |
+| 22 | [What is Domain Spoofing?](https://www.cloudflare.com/learning/ssl/what-is-domain-spoofing/) |
