@@ -1,5 +1,9 @@
 # 1. Cloud
 
+
+"The cloud" refers to servers that are accessed over the Internet, and the software and databases that run on those servers. Cloud servers are located in data centers all over the world.
+
+
 | # | Title | Link |
 | -- | -- | -- |
 | 1 | What Is the Cloud? | [Click Here](https://www.cloudflare.com/learning/cloud/what-is-the-cloud/) |
@@ -74,6 +78,10 @@
 
 # 2. DDoS
 
+
+In a distributed denial-of-service (DDoS) attack, a network of computers work in tandem to overflow an access point and prevent legitimate users from accessing a service.
+
+
 | # | Title | Link |
 | -- | :-- | -- |
 | 1 | What is a DDoS Attack? |
@@ -127,15 +135,27 @@
 
 # 3. Microservice
 
+
+Microservices - also known as the microservice architecture - is an architectural style that structures an application as a collection of services that are
+
+-   Highly maintainable and testable
+-   Loosely coupled
+-   Independently deployable
+-   Organized around business capabilities
+-   Owned by a small team
+
+The microservice architecture enables the rapid, frequent and reliable delivery of large, complex applications. It also enables an organization to evolve its technology stack.
+
+
 ## 3.1 Patterns
 
 [How to apply the patterns](https://microservices.io/articles/applying.html)
 
 ### 3.1.1 Application Architecture Patterns 
 
-| # | Title |
-| -- | :-- |
-| 1 | [Monolithic architecture](https://microservices.io/patterns/monolithic.html) |
+| # | Title | Summary |
+| -- | :-- | :-- |
+| 1 | [Monolithic architecture](https://microservices.io/patterns/monolithic.html) |emphasized text
 | 2 | [Microservice architecture](https://microservices.io/patterns/microservices.html) |
 
 ### 3.1.2 Decomposition
